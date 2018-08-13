@@ -18,6 +18,8 @@ Consider use dict()
 '''
 
 
+######################################### SOLUTION #############################################
+
 n = int(raw_input("Enter a number: "))
 integral = {i: i**2 for i in range(1,n+1)}
 print integral

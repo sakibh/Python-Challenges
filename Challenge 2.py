@@ -13,6 +13,8 @@ Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 '''
 
+######################################### SOLUTION #############################################
+
 n = int(raw_input("Enter a number: "))
 a = 1
 
